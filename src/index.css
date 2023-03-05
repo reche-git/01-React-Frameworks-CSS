@@ -1,0 +1,8 @@
+.App {
+    width: 90%;
+    margin: auto;
+}
+
+.modalButton:hover {
+    background-color: red;
+}
